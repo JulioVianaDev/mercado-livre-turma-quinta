@@ -28,6 +28,17 @@
 
 ``` git push git@github.com:JulioVianaDev/mercadolivrequi16.git```
 
+## atualizar o projeto
+
+### atualizar na escola: 
+
+``` git pull git@github.com-nome:JulioVianaDev/mercadolivrequi16.git```
+
+### atualizar em casa: 
+
+``` git pull git@github.com:JulioVianaDev/mercadolivrequi16.git```
+
+
 ## criar uma branch(VERSÃO PARA TESTES) nova:
 
 ``` git checkout -b "nome-da-branch" ```
