@@ -28,3 +28,10 @@
 #maps{
   width: 2rem;
 }
+.produtos-galeria{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 50px;
+}
